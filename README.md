@@ -1,2 +1,1 @@
-# latihan-branch
-github asyik bet
+# latihan membuat branch
